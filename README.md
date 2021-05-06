@@ -1,8 +1,19 @@
-# mp21ProjRicaldone
-Air Pollution Detector (Luyahan,Ishikura,Lindo)
+Proposal Title: Evolution of Microprocessor Technology during the Covid-19 Pandemic
+Team members / position:
 
-Construct a manufacturing device through software that can detect air pollution and will trigger an alarm if polluted air is monitored around the area. If the pollutant level exceeds the limited threshold value, the buzzer will automatically be on. MQ135 sensor will be used as the air quality sensor as it can detect the most harmful gases and can measure the amount accurately. The amount will be displayed on the LCD.  
+Luyuhan, Alyssa Dominique L. (Leader)
+Ishikura, Naomi C. (Rapporteur)
+Lindio, Emil John R. (member)
 
-Sources: Goel, Akshat, Embedded System Project Topics - Electronics, July 22, 2018, engineering.eckovation.com/embedded-system-projects-topics, March 8, 2021  
-Instructables, Air Pollution Detector, October 8, 2017, https://www.instructables.com/Air-Pollution-Detector/, March 8, 2021  
-Hackster.io, Arduino Based Air Quality Monitoring IOT Project, September 26, 2018, https://www.hackster.io/TechnicalEngineer/arduino-based-air-quality-monitoring-iot-project-7f3d14, March 8, 2021
+Description:
+Analyzing and show on how microprocessors develop during the Covid-19 Pandemic. 
+This research will tackle the brief history of computers and microprocessor. 
+Its focus however will evolve around the effects of the world-shattering Covid-19 pandemic 
+and its effects on the development of the latest microprocessors and computers systems, 
+how the manufacturers was affected economically and on what ends does the manufacturers do in order to further develop computers in a situation mostly unknown to them.
+Articles, news and if possible video documentaries will be cited as the primary source of information for this research project.
+
+Sources:
+A Brief History of Computer Technology. (2002). Retrieved 11 March 2021, https://web.itu.edu.tr/~gerzeli/History.htm.
+How will 'chipageddon' affect you?. BBC News. (2021). Retrieved 11 March 2021, https://www.bbc.com/news/technology-55936011.
+COVID-19 and the technology industry. PwC. (2021). Retrieved 11 March 2021, https://www.pwc.com/us/en/library/covid-19/coronavirus-technology-impact.html.
